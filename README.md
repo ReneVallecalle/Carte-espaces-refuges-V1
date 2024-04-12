@@ -1,1 +1,1 @@
-Lien vers la carte : https://github.com/ReneVallecalle/Carte-espaces-refuges-V1.git
+Lien vers la carte : https://renevallecalle.github.io/Carte-espaces-refuges-V1/
